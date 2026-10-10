@@ -1,6 +1,6 @@
 cask "macapad" do
-  version "0.3.3"
-  sha256 "544025315d2d9365dbacca26a4f5c0c040ac021239b90678a48bf613e6eec780"
+  version "0.3.4"
+  sha256 "a1837f2b6b9be4c8b545f402681ed9b0cb3c99f715238d592d3873cd7473d5f4"
 
   url "https://github.com/AD-Archer/Macapad/releases/download/v#{version}/Macapad.zip"
   name "Macapad"
